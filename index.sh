@@ -1,0 +1,1 @@
+python docreader.py "$@"
